@@ -51,8 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo" />
   <img width="12" />
   
-  <!-- JSDelivr (using simple-icons since devicon doesn’t have it yet) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsdelivr.svg" height="30" alt="jsdelivr logo" />
+
 </div>
 
 <br>
